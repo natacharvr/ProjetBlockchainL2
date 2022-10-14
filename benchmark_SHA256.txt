@@ -1,0 +1,7 @@
+temps passé pour 0 zéros : 0.00013
+temps passé pour 1 zéros : 0.00049
+temps passé pour 2 zéros : 0.00076
+temps passé pour 3 zéros : 0.02146
+temps passé pour 4 zéros : 0.27171
+temps passé pour 5 zéros : 1.65657
+temps passé pour 6 zéros : 152.05518
